@@ -1,0 +1,278 @@
+{
+    "Trains": [
+        {
+            "TrainName": "Gwalior-Barauni Express",
+            "TrainNumber": 11124,
+            "START": "GWL",
+            "END": "BJU",
+            "SEATS": 1002,
+            "COST": {
+                "1A": 2000,
+                "2A": 1600,
+                "3A": 1400,
+                "SL": 800
+            }
+        },
+        {
+            "TrainName": "Lucknow - Delhi Express",
+            "TrainNumber": 12233,
+            "START": "LKO",
+            "END": "NDLS",
+            "SEATS": 987,
+            "COST": {
+                "1A": 2000,
+                "2A": 1600,
+                "3A": 1400,
+                "SL": 800
+            }
+        },
+        {
+            "TrainName": "RJB-NDLS Hmf SF Express",
+            "TrainNumber": 13293,
+            "START": "RJPVB",
+            "END": "NDLS",
+            "SEATS": 728,
+            "COST": {
+                "1A": 2400,
+                "2A": 1800,
+                "3A": 1400,
+                "SL": 800
+            }
+        },
+        {
+            "TrainName": "Shaheed Express        ",
+            "TrainNumber": 14674,
+            "START": "ASR",
+            "END": "DBG",
+            "SEATS": 687,
+            "COST": {
+                "1A": 2400,
+                "2A": 1900,
+                "3A": 1700,
+                "SL": 1000
+            }
+        },
+        {
+            "TrainName": "SampoornKranti Express",
+            "TrainNumber": 12393,
+            "START": "PNBE",
+            "END": "NDLS",
+            "SEATS": 934,
+            "COST": {
+                "1A": 3000,
+                "2A": 2200,
+                "3A": 1800,
+                "SL": 900
+            }
+        },
+        {
+            "TrainName": "Mumbai-Ahmdabd Duronto",
+            "TrainNumber": 12267,
+            "START": "BCT",
+            "END": "ADI",
+            "SEATS": 751,
+            "COST": {
+                "1A": 4000,
+                "2A": 3000,
+                "3A": 2000,
+                "SL": 500
+            }
+        },
+        {
+            "TrainName": "Sealdah-Puri Express",
+            "TrainNumber": 22201,
+            "START": "SDAH",
+            "END": "PURI",
+            "SEATS": 647,
+            "COST": {
+                "1A": 2600,
+                "2A": 1800,
+                "3A": 1400,
+                "SL": 500
+            }
+        },
+        {
+            "TrainName": "Jammu -Delhi Express",
+            "TrainNumber": 12426,
+            "START": "JAT",
+            "END": "NDLS",
+            "SEATS": 1102,
+            "COST": {
+                "1A": 2400,
+                "2A": 1600,
+                "3A": 1000,
+                "SL": 600
+            }
+        },
+        {
+            "TrainName": "Mumbai-Delhi Express",
+            "TrainNumber": 12951,
+            "START": "BCT",
+            "END": "NDLS",
+            "SEATS": 1352,
+            "COST": {
+                "1A": 3400,
+                "2A": 2600,
+                "3A": 1800,
+                "SL": 800
+            }
+        },
+        {
+            "TrainName": "Howrah-Ranchi Express",
+            "TrainNumber": 12019,
+            "START": "HWH",
+            "END": "RNC",
+            "SEATS": 685,
+            "COST": {
+                "1A": 2400,
+                "2A": 1900,
+                "3A": 1500,
+                "SL": 800
+            }
+        },
+           {
+            "TrainName": "Mumbai-Howrah Express",
+            "TrainNumber": 12859,
+            "START": "BCT",
+            "END": "HWH",
+            "SEATS": 954,
+            "COST": {
+                "1A": 2200,
+                "2A": 1600,
+                "3A": 1000,
+                "SL": 500
+            }
+        },
+           {
+            "TrainName": "Puri-New Delh Express",
+            "TrainNumber": 12801,
+            "START": "PURI",
+            "END": "NDLS",
+            "SEATS": 784,
+            "COST": {
+                "1A": 3400,
+                "2A": 2000,
+                "3A": 1000,
+                "SL": 600
+            }
+        },
+           {
+            "TrainName": "ANVT-Guwahati Express",
+            "TrainNumber": 12506,
+            "START": "ANVT",
+            "END": "GHY",
+            "SEATS": 700,
+            "COST": {
+                "1A": 3400,
+                "2A": 2600,
+                "3A": 2000,
+                "SL": 1000
+            }
+        },
+           {
+            "TrainName": "Banglore-Danapur EXP",
+            "TrainNumber": 12295,
+            "START": "SBC",
+            "END": "DNR",
+            "SEATS": 890,
+            "COST": {
+                "1A": 4000,
+                "2A": 2600,
+                "3A": 1800,
+                "SL": 1000
+            }
+        },
+           {
+            "TrainName": "Firozpur-Mumbai Express",
+            "TrainNumber": 12138,
+            "START": "FZR",
+            "END": "CST",
+            "SEATS": 850,
+            "COST": {
+                "1A": 2800,
+                "2A": 1600,
+                "3A": 1000,
+                "SL": 600
+            }
+        },
+           {
+            "TrainName": "Pune-Jammu Express",
+            "TrainNumber": 11077,
+            "START": "PUNE",
+            "END": "JAT",
+            "SEATS": 870,
+            "COST": {
+                "1A": 3000,
+                "2A": 1800,
+                "3A": 1000,
+                "SL": 400
+            }
+        },
+           {
+            "TrainName": "YPR-Howarah SF Express",
+            "TrainNumber": 12864,
+            "START": "YTR",
+            "END": "HWH",
+            "SEATS": 807,
+            "COST": {
+                "1A": 2600,
+                "2A": 1600,
+                "3A": 1000,
+                "SL": 500
+            }
+        },
+         {
+            "TrainName": "Gatiman Express     ",
+            "TrainNumber": 12049,
+            "START": "AGC",
+            "END": "NZM",
+            "SEATS": 590,
+            "COST": {
+                "1A": 4000,
+                "2A": 2600,
+                "3A": 1200,
+                "SL": 600
+            }
+        },
+         {
+            "TrainName": "Himsagar Express",
+            "TrainNumber": 16317,
+            "START": "CAPE",
+            "END": "JAT",
+            "SEATS": 866,
+            "COST": {
+                "1A": 2100,
+                "2A": 1600,
+                "3A": 1000,
+                "SL": 500
+            }
+        },
+        {
+            "TrainName": "Kerala Express     ",
+            "TrainNumber": 12625,
+            "START": "TVC",
+            "END": "NDLS",
+            "SEATS": 957,
+            "COST": {
+                "1A": 3400,
+                "2A": 2600,
+                "3A": 1500,
+                "SL": 600
+            }
+        },
+        {
+            "TrainName": "BCT NDLS Express     ",
+            "TrainNumber": 12431,
+            "START": "BCT",
+            "END": "NDLS",
+            "SEATS": 957,
+            "COST": {
+                "1A": 4000,
+                "2A": 3000,
+                "3A": 2000,
+                "SL": 1000
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Tickets": [
+        {
+            "Aadhar": "11111",
+            "Age": "21",
+            "Destination": "NDLS",
+            "Fare": "1800",
+            "JourneyFrom": "BCT",
+            "Name": "Kislay Singh",
+            "PNR": "11568106",
+            "SeatType": "3A",
+            "TrainName": "Mumbai-Delhi Express",
+            "TrainNumber": "12951"
+        }
+    ]
+}
