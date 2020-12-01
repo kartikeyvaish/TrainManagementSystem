@@ -9,11 +9,13 @@ Steps
 
 3.) Then `cd` into TrainManagementSystem folder by typing ` cd TrainManagementSystem` and Press Enter
 
-4.) Enter the command `g++ TrainManagementSystem.cpp -o TrainManagementSystem.exe`
+4.) Then copy all files from `dist` & `include` folder into the location where you have your MingW g++ compiler installed.
 
-5.) Then run `TrainManagementSystem.exe`
+5.) Enter the command `g++ TrainManagementSystem.cpp -o TrainManagementSystem.exe`
 
-6.) Done.
+6.) Then run `TrainManagementSystem.exe`
+
+7.) Done.
 
 Note
 
