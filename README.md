@@ -27,3 +27,6 @@ If you don't have g++ Installed refer to this [video](https://www.youtube.com/wa
 
 
 ![alt text](https://github.com/kartikeyvaish/TrainManagementSystem/blob/master/Screenshots/G%2B%2B%20Screenshot.png?raw=true)
+
+Kartikey Vaish
+Souryaman Singh
